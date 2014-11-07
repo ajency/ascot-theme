@@ -3,7 +3,7 @@ wp-admin
 wp-includes
 ascot
 .htaccess
-xmlrpc
+xmlrpc.php
 wp-trackback.php
 wp-signup.php
 wp-settings.php
